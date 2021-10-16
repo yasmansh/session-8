@@ -3,7 +3,7 @@ name: فرم گزارش آزمایش هشتم
 about: برای نوشتن گزارش آزمایشگاه از این تمپلیت استفاده کنید
 title: Session 8 Report
 labels: documentation
-assignees: fshahinfar1
+assignees: pourmand1376
 
 ---
 
