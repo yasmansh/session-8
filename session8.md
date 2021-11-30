@@ -125,4 +125,7 @@ unistd.h
   * توضیجاتی در مورد نیازمندی‌های لازم جهت اجرای برنامه 
 
 
+ 
+ - [superhide](https://github.com/jordan9001/superhide)
+ - [Guest Diary (Etay Nir) Kernel Hooking Basics](https://isc.sans.edu/forums/diary/Guest+Diary+Etay+Nir+Kernel+Hooking+Basics/23155/)
 </div>
