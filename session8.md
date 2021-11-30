@@ -94,6 +94,11 @@ unistd.h
 [link](https://elixir.bootlin.com/linux/latest/source/include/uapi/asm-generic/unistd.h)
 )
 
+ - [1](https://marcin.juszkiewicz.com.pl/download/tables/syscalls.html)
+ - [2](https://memset.wordpress.com/2011/03/18/syscall-hijacking-dynamically-obtain-syscall-table-address-kernel-2-6-x-2/)
+ - [3](https://unix.stackexchange.com/questions/421750/where-do-you-find-the-syscall-table-for-linux)
+ - [4](https://marcin.juszkiewicz.com.pl/download/tables/syscalls.html)
+ 
 انتظار می‌رود خروجی این آزمایش شامل موارد زیر باشد.
 
 1.  کد پیاده‌سازی شده توسط دانشجو
