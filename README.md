@@ -6,6 +6,7 @@
   
 - [دستور آزمایش هشتم](./session8.md)
 - [چطور یک ماژول سطح هسته بنویسیم](https://blog.sourcerer.io/writing-a-simple-linux-kernel-module-d9dc3762c234)
+- [آشنایی با ماژول سطح هسته](https://www.thegeekstuff.com/2013/07/write-linux-kernel-module/)
 - [توضیحاتی در باره قلاب کردن فراخوانی‌های سیستمی و اطلاعات بیشتر](https://ritcsec.wordpress.com/2020/11/22/linux-syscall-hooking/)
 - لطفا شما هم جستوجو کنید.
 
